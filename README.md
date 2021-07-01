@@ -16,5 +16,5 @@ Instruction set architecture \(ISA\) supports extensions, which allows creation 
 
 ## Using AluVM
 
-The simplest way to use AluVM is AluREX: toolchain
+The simplest way to use AluVM is AluREX: a runtime environment, package manager & developer toolchain which allows creation, distribution & execution of Alu binaries.
 
