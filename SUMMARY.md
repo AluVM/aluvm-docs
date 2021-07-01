@@ -6,6 +6,7 @@
 * [Standards & specs](standards-and-specs.md)
 * [Use cases](use-cases-1.md)
 * [Ecosystem](ecosystem.md)
+* [Roadmap](roadmap.md)
 * [Contributions](contributions.md)
 * [Educational materials](educational-materials.md)
 
