@@ -3,6 +3,7 @@
 * [About AluVM](README.md)
 * [Motivation](motivation.md)
 * [Design](design.md)
+* [Standards & specs](standards-and-specs.md)
 * [Use cases](use-cases-1.md)
 * [Ecosystem](ecosystem.md)
 * [Contributions](contributions.md)
