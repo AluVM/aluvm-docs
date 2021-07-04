@@ -1,8 +1,12 @@
 # Roadmap
 
+AluVM development roadmap, which include technical specifications, standards, reference implementation, language-specific wrappers, programming languagues and toolchain, is managed at .
+
 ## AluVM implementation
 
-The current version of AluVM implementation is 0.3. We are targeting 1.0 release until the end of the year
+The current version of reference AluVM implementation, written as Rust library, embeddable into specific runtime environments, is 0.3. 
+
+We are targeting 1.0 release until the end of the year. The release must cover the following functionality:
 
 * [x] Instruction set arthitecture design
 * [x] Reference implementation in Rust
@@ -17,6 +21,8 @@ The current version of AluVM implementation is 0.3. We are targeting 1.0 release
 * [ ] Complete implementation of complex byte-string operations
 * [ ] Implement operations on Curve25519
 * [ ] Complete test coverage of the reference VM implementation
+
+For more details on AluVM reference implementation development tasks and roadmap please check [https://github.com/internet2-org/rust-aluvm/issues](https://github.com/internet2-org/rust-aluvm/issues)
 
 ## Language-specific bindings & toolchain
 

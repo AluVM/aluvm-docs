@@ -7,6 +7,7 @@
 * [Use cases](use-cases-1.md)
 * [Ecosystem](ecosystem.md)
 * [Roadmap](roadmap.md)
+* [Evolution](evolution.md)
 * [Contributions](contributions.md)
 * [Educational materials](educational-materials.md)
 
